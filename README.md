@@ -1,6 +1,6 @@
-# paras_tyagi_potfolio
+# paras_tyagi_portfolio
 
-A Portdolio app
+A Portfolio app
 
 ## Getting Started
 
